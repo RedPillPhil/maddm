@@ -1405,7 +1405,7 @@
 						return !(!o || !t || !r || !n || !e || u && ((null == a ? void 0 : a.id) === ti.Mt.Blocto || (null == a ? void 0 : a.id) === "safe" || Boolean(null === (i = window.ethereum) || void 0 === i ? void 0 : i.isBlocto))) && (t !== N.a_.BSC || !n.isToken || !e.isToken || !e9[t][n.address] || !e9[t][e.address]) && !!r[(n.isToken ? n.address : (0, n.wrapped.address)).toLowerCase()] && !!r[(e.isToken ? e.address : (0, n.wrapped.address)).toLowerCase()]
 					}, [o, t, r, n, e, u, null == a ? void 0 : a.id])
 				},
-				td = ["0xaE4EC9901c3076D0DdBe76A520F9E90a6227aCB7", "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a", "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D"],
+				td = ["0xaE4EC9901c3076D0DdBe76A520F9E90a6227aCB7", "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a", "0xbee5c10cf6e4f68f831e11c1d9e59b43560b3642"],
 				tp = function(n, e, t, r) {
 					var o = (0, v.Z)((0, tr.k)(), 1)[0],
 						i = "".concat(null == n ? void 0 : n.networkId, "/").concat(null == n ? void 0 : n.makerSideToken, "/").concat(null == n ? void 0 : n.takerSideToken, "/").concat(null == n ? void 0 : n.makerSideTokenAmount, "/").concat(null == n ? void 0 : n.takerSideTokenAmount),
@@ -2707,7 +2707,7 @@
 					return ro(n, e)
 				}, [e, n])
 			}
-			var rE = ["0xaE4EC9901c3076D0DdBe76A520F9E90a6227aCB7", "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a", "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D"],
+			var rE = ["0xaE4EC9901c3076D0DdBe76A520F9E90a6227aCB7", "0xf164fC0Ec4E93095b804a4795bBe1e041497b92a", "0xbee5c10cf6e4f68f831e11c1d9e59b43560b3642"],
 				rN = t(42938),
 				rM = t(18733),
 				rD = t(1005),
